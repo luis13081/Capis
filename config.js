@@ -95,11 +95,11 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["525625060788", 'CapiBot 💻', 1], 
-["525625060788", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["525625060788", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["525625060788", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["525625060788", 'Prueba', 1]]
+["18059196237", 'CapiBot 💻', 1], 
+["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["59894808483", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["5491173694367", 'Prueba', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -114,8 +114,27 @@ global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "CapiBot Premium"
+global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.yt = "https://youtube.com/@gatadios"
+global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
+global.ig = "https://www.instagram.com/gata_dios"
+global.md = "https://github.com/GataNina-Li/GataBot-MD"
+global.fb = "https://www.facebook.com/groups/872989990425789/"
 
+global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //CANAL UPDATE
+global.nn2 = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE
+global.nna2 = 'https://chat.whatsapp.com/JRFOdyjNqhwEJcDQoBCHzL' //Help
+global.nn = 'https://chat.whatsapp.com/Ii0hagX0idw4C7Gxwts54x' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/LGHW0ZwLgpeH7Nsn4vlrWi' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/Jvhbjxueer0GSdOw75ZtWR' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/Gysm0PMJ4zg7ts0E9t91Hz' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/IZeaMQos8pxEhlyVI6yZaa' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/B8lrwGzSUbf7zlZHDAwCQ8'; //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/LVocHnQjrci6dM4TZdmhBH' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
+global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/525625060788' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
