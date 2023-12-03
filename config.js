@@ -205,6 +205,9 @@ global.imagen13 = fs.readFileSync("./media/menus/img12.jpg")
 global.img = 'https://storage.ko-fi.com/cdn/useruploads/post/ee7cba9e-8303-42ca-a25f-19f0647c2e0c_capibot2023.jpg'
 global.img2 = 'https://cdn.ko-fi.com/cdn/useruploads/png_2f73e7ec-a31b-48fd-b740-2439352b81c7sharable.png?custom=da1f8774-5a10-4cba-9d41-fe240d9d51bd'
 
+global.img3 = 'https://i.imgur.com/oUAGYc2.jpg' //prem
+global.img4 = 'https://i.imgur.com/i0pccuo.jpg' //prem
+
 global.img5 = 'https://pbs.twimg.com/profile_images/1722696586596065280/kpy6sspO_400x400.jpg'
 global.img6 = 'https://pbs.twimg.com/media/F2Of0XXWYAAB5S5?format=jpg'
 global.img7 = 'https://pbs.twimg.com/media/FR8jz2dVsAAsmEL.jpg'
